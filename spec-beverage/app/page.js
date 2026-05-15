@@ -339,7 +339,7 @@ body{margin:0;background:var(--cream);font-family:var(--fb);color:var(--ch)}
 .hero-blue{position:absolute;right:0;top:0;width:140px;height:100%;background:linear-gradient(180deg,var(--blue),transparent);opacity:0.05;clip-path:polygon(50% 0,100% 0,100% 100%,0 100%);pointer-events:none}
 .hero-in{max-width:1060px;margin:0 auto;position:relative;z-index:1}
 .hero-label{font-family:var(--fm);font-size:9px;letter-spacing:3px;text-transform:uppercase;color:var(--gold);opacity:0.35;margin-bottom:12px}
-.hero-h1{font-family:var(--fd);font-size:clamp(26px,5vw,46px);font-weight:800;color:rgba(242,234,224,0.92);line-height:1.1;letter-spacing:-1px}
+.hero-h1{font-family:var(--fd);font-size:clamp(20px,3.5vw,36px);font-weight:800;color:rgba(242,234,224,0.92);line-height:1.1;letter-spacing:-1px}
 .dot{color:var(--blue)}
 .hero-sub{font-family:var(--fb);font-size:13px;color:rgba(242,234,224,0.22);font-weight:300;margin-top:10px;letter-spacing:0.3px}
 
