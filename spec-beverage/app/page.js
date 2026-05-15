@@ -267,7 +267,7 @@ export default function App() {
         <div className="hero-blue" />
         <div className="hero-in">
           <p className="hero-label">논알콜 칵테일 원데이 클래스</p>
-          <h1 className="hero-h1">클래스 메뉴 및<br />레시피<span className="dot">.</span></h1>
+          <h1 className="hero-h1">클래스 메뉴 및 레시피<span className="dot">.</span></h1>
           <p className="hero-sub">3가지 논알콜 칵테일 — 무드와 균형, 그리고 시그니처</p>
         </div>
       </header>
